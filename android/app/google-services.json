@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105070979760",
+    "project_id": "capturevideos-86367",
+    "storage_bucket": "capturevideos-86367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105070979760:android:398541b31b303c68e1e975",
+        "android_client_info": {
+          "package_name": "com.example.capture_and_upload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9UVPs800WeOx23_sRKO6SgfYjRWVucU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105070979760:android:200f979ea4b314c0e1e975",
+        "android_client_info": {
+          "package_name": "com.example.capture_videos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9UVPs800WeOx23_sRKO6SgfYjRWVucU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
